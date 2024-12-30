@@ -4,11 +4,11 @@ let resumeData = {
     "role": "Javascript Fullstack Develepor and Java Backend Developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I have a keen interest in problem-solving and exploring computer fundamentals like networks, operating systems, and more. I also enjoy learning about new technologies, problem setting and playing games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/ayushman-tiwari-a7807b243/",
           "className":"fa fa-linkedin"
         },
         {
@@ -17,56 +17,68 @@ let resumeData = {
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
+          "name":"instagram",
+          "url":"https://www.instagram.com/ayush__mn/",
+          "className":"fa fa-instagram"
         }
       ],
     "aboutme":"I am currently a pre-final year student at MNNIT.",
     "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "website":"ayushman5022@gmai.com",
     "education":[
       {
         "UniversityName":"Motilal Nehru National Institute of Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "specialization":"Electrical Engineering",
+        "MonthOfPassing":"July(Tentative)",
+        "YearOfPassing":"2026",
+        "Achievements":"CGPA : 8.94"
       },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
-      }
+      // {
+      //   "UniversityName":"Some University",
+      //   "specialization":"Some specialization",
+      //   "MonthOfPassing":"Jan",
+      //   "YearOfPassing":"2018",
+      //   "Achievements":"Some Achievements"
+      // }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Computer & Coding Club , MNNIT",
+        "specialization":"Role : Lead",
+        "MonthOfLeaving":"September",
+        "YearOfLeaving":"2024 - Present",
+        "Achievements":"At the Computer Coding Club, MNNIT, I conducted offline classes on DSA and algorithms, set problems for contests like OPC and Bit-O-Mania, and gained experience with Linux and Nginx."
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Enterpreneurship Cell , MNNIT",
+        "specialization":"Role : Web Developer",
+        "MonthOfLeaving":"September",
+        "YearOfLeaving":"2023 - Present",
+        "Achievements":"At E-Cell MNNIT, I worked as a Web Developer on the Renaissance 2k24 website, utilizing technologies like React, Node.js, MongoDB, and Tailwind CSS."
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Major Skills include",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"NodeJs"
       },
       {
-        "skillname":"CSS"
+        "skillname":"Springboot"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"React"
+      },
+      {
+        "skillname":"Web Sockets"
+      },
+      {
+        "skillname":"MySQL"
+      },
+      {
+        "skillname":"MongoDB"
+      },
+      {
+        "skillname":"Tailwind Css"
       }
     ],
     "portfolio":[
